@@ -10,6 +10,8 @@ This exercise will use simple crocodile connectors, an LED and copper slug tape 
 
 All good masterpieces start with a rough sketch. What will be the theme? A snowman and Christmas Tree or how about a sinking ship and a lighthouse?
 
+!(Art_and_copper_tape1.jpg)
+
 The story behind the art is that a light can be switched on or off and also an element in the art can display a message to the viewer. What these are will be up to the artistic license of the artist. So get creative!
 
 In the example shown here a lighthouse is on a rock. The rock itself will be copper tape. The light will be the LED. The pins of which are poked through the paper and stuck to copper tape on the back. And a ship in distress in the water has a hull of copper tape. Touching the hull will send a distress message, touching the rock will illuminate the lighthouse.
