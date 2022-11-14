@@ -10,7 +10,7 @@ This exercise will use simple crocodile connectors, an LED and copper slug tape 
 
 All good masterpieces start with a rough sketch. What will be the theme? A snowman and Christmas Tree or how about a sinking ship and a lighthouse?
 
-!(/Art_and_copper_tape1.jpg)
+![The bill of materials for the artwork](https://github.com/astrotutor9/Microbit-Copper-Art/blob/main/Art_and_copper_tape1.jpg)
 
 The story behind the art is that a light can be switched on or off and also an element in the art can display a message to the viewer. What these are will be up to the artistic license of the artist. So get creative!
 
@@ -20,11 +20,15 @@ In the example shown here a lighthouse is on a rock. The rock itself will be cop
 
 Adding the tape could be seen as quite easy. It is self adhesive, so just stick it down. The trick, though, is to make it appear as part of the art work or even hidden.
 
+![A rough outline sketch with ideas for where to place the copper tape](https://github.com/astrotutor9/Microbit-Copper-Art/blob/main/Art_and_copper_tape2.jpg)
+
 The rock and ship’s hull have slits cut on two sides of the shape and the copper tape threaded through. The backing was glued to the rock and hull leaving the tape intact. The self adhesive backing was only used to attach the copper tape at the edge of the paper where the crocodile clips will clip to it.
 
 Attach the lighthouse LED to two thinner strips of the tape stuck to the back of the paper with small pieces of more copper tape. The LED pins are pushed through holes in the paper and stuck really tightly onto the copper tape. See the LED Tips below.
 
 A final piece of tape is needed on the art as a ground for the viewer to touch at the same time as the rock or hull.
+
+![The final artwork with the led added and the copper tape stuck down.](https://github.com/astrotutor9/Microbit-Copper-Art/blob/main/Art_and_copper_tape3.jpg)
 
 ## LED Tips
 
