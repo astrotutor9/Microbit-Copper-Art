@@ -6,7 +6,7 @@ A simple python command “is_touched” can be used to tell if one of the conta
 
 This exercise will use simple crocodile connectors, an LED and copper slug tape to make a simple drawing interactive.
 
-##Design The Masterpiece
+## Design The Masterpiece
 
 All good masterpieces start with a rough sketch. What will be the theme? A snowman and Christmas Tree or how about a sinking ship and a lighthouse?
 
@@ -14,7 +14,7 @@ The story behind the art is that a light can be switched on or off and also an e
 
 In the example shown here a lighthouse is on a rock. The rock itself will be copper tape. The light will be the LED. The pins of which are poked through the paper and stuck to copper tape on the back. And a ship in distress in the water has a hull of copper tape. Touching the hull will send a distress message, touching the rock will illuminate the lighthouse.
 
-##Adding the Tape
+## Adding the Tape
 
 Adding the tape could be seen as quite easy. It is self adhesive, so just stick it down. The trick, though, is to make it appear as part of the art work or even hidden.
 
@@ -24,13 +24,13 @@ Attach the lighthouse LED to two thinner strips of the tape stuck to the back of
 
 A final piece of tape is needed on the art as a ground for the viewer to touch at the same time as the rock or hull.
 
-##LED Tips
+## LED Tips
 
 The LED will only work if the electrical current flows in the correct direction. The short pin is attached to ground the long pin to the positive or 3v on the Microbit. With the pins bent over onto the tape you may lose sight of which is ground or positive.
 
 To ensure the LED is firmly attached to the tape, connect the crocodile clips to each tape and the other ends to GND and 3v. Power up the Microbit with the battery pack or connect it to your computer. Press the pins onto the tape with your fingers. If the LED does not light up, switch the connections over and try again. If at any point the LED flashes on then the connections are the right way round. Just press the tape down more firmly to make the pin connection secure so that the LED stays on the whole time. Then disconnect the 3v crocodile clip.
 
-##Wire Up and Start Coding
+## Wire Up and Start Coding
 
 Connect each piece of copper tape to the Microbit. There is a ground for the LED pin and for the ground tape. Clip the two ground crocodile clips to each other. 
 
