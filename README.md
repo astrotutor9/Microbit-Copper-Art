@@ -1,6 +1,6 @@
 # Microbit-Copper-Art
 
-The Microbit has a really great feature built in that makes it an excellent starting point for adding interactivity to a small piece of artwork. This exercise uses the Microbit Version 1.
+The Microbit has a really great feature built in that makes it an excellent starting point for adding interactivity to a small piece of artwork. This exercise was designed using the Microbit Version 1 but will also work with the Version 2.
 
 A simple python command “is_touched” can be used to tell if one of the contacts on the base of the Microbit literally has been touched. If a wire is connected to the contacts then this sense can be taken away from the Microbit onto a canvas, painting or sculpture.
 
