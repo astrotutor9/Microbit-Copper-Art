@@ -10,7 +10,7 @@ This exercise will use simple crocodile connectors, an LED and copper slug tape 
 
 All good masterpieces start with a rough sketch. What will be the theme? A snowman and Christmas Tree or how about a sinking ship and a lighthouse?
 
-!(Art_and_copper_tape1.jpg)
+!(/Art_and_copper_tape1.jpg)
 
 The story behind the art is that a light can be switched on or off and also an element in the art can display a message to the viewer. What these are will be up to the artistic license of the artist. So get creative!
 
